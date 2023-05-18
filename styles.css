@@ -1,0 +1,87 @@
+/* Header styling */
+header{
+	color:#423324;
+	font-size: 50px;
+	padding: 40px;
+}
+/* Head styling */
+head{
+	color:MediumPurple;
+	font-size: 20px;
+	position: center;
+}
+
+/* H1 styling */
+h1 {
+	background-color: CadetBlue;
+	color: White;
+	padding: 20px;
+	font-size: 50px;
+}
+
+/* H2 styling */
+h2 {
+	background-color: LightSteelBlue;
+	color: #423324;
+	padding: 40px;
+	font-size: 30px
+}
+
+/* H3 styling */
+h3 {
+	background-color: SkyBlue;
+	color: #423324;
+	padding: 40px;
+	font-size: 30px;
+}
+
+/* H5 styling */
+h5 {
+	font-size: 30px;
+}
+
+/* list styling */
+ol{
+	background-color: CornSilk;
+	color: #423324;
+	padding: 40px;
+}
+
+/* Section styling and mathcing to head tags theme */
+section{
+	background-color: CadetBlue;
+	color: White;
+	padding: 20px;
+	font-size: 20px;
+}
+
+/* Image container styling for spining image */
+.image-container {
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+    position: relative;
+}
+
+/* Spinning Image properties for the rotation */
+#spin-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform 1s ease-out;
+}
+
+/* Small centers container */
+.container-sm {
+	position: center;
+	color: white;
+	background: SkyBlue;
+}
+
+/* Captions for the BE REALS */
+figcaption {
+	background-color: CadetBlue;
+	color: White;
+	padding: 20px;
+	font-size: 20px;
+}
